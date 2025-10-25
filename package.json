@@ -1,0 +1,26 @@
+{
+  "name": "clinicas-adelgazamiento",
+  "version": "1.0.0",
+  "description": "Sitio web profesional para clínicas de adelgazamiento",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "serve": "npx serve .",
+    "deploy": "echo 'Ready to deploy to your hosting provider'"
+  },
+  "keywords": [
+    "clinic",
+    "weight-loss",
+    "health",
+    "nutrition",
+    "adelgazamiento",
+    "clinica"
+  ],
+  "author": "Serendipia Agency",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serendipiaagency/clinicasAdelgazamiento.git"
+  }
+}
